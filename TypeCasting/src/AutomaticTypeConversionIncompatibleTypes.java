@@ -5,7 +5,7 @@ public class AutomaticTypeConversionIncompatibleTypes {
 		
 		// Attempting to assign boolean to a float
 		
-		boolean condition = false;
+		boolean condition = true;
 		
 		float f1 = condition;
 		
