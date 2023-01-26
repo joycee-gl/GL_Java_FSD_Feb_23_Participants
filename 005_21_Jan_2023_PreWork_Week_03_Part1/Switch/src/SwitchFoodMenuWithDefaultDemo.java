@@ -54,6 +54,7 @@ public class SwitchFoodMenuWithDefaultDemo {
 			default : {
 				
 				System.out.println("Incorrect option selected. Type 1 (or) 2 (or) 3");
+				break;
 			}
 			
 		}

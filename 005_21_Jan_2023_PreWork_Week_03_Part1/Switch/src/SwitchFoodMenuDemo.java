@@ -22,8 +22,8 @@ public class SwitchFoodMenuDemo {
 				System.out.println("Burgers");
 				System.out.println("------------");
 				
-				System.out.println("Lola Burger");
-				System.out.println("Whiskey King Burger");
+				System.out.println("Classic Burger");
+				System.out.println("Crispy Burger");
 				System.out.println("Deep Fried Burger");
 				break;				
 			}
@@ -45,9 +45,9 @@ public class SwitchFoodMenuDemo {
 				System.out.println("------------");
 				
 
-				System.out.println("Black Forrest");
-				System.out.println("Eggless Cake");
-				System.out.println("Mango Cake");
+				System.out.println("Black Forest Cake");
+				System.out.println("Eggless Chocolate Truffle Cake");
+				System.out.println("Pineapple Cake");
 				break;
 			}			
 		}

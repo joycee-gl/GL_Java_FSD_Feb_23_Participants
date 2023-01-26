@@ -5,18 +5,17 @@ public class UnaryOperatorDemo {
 		
 		int a = 10;
 		
-		int b = a++;
+		int b = a++;//a--
 		
 		System.out.println(a + ", " + b);
 		
 		int c = 15;
-		int d = ++c;
+		int d = ++c;//--c
+		
 		System.out.println(c + ", " + d);
-
+		
 		a++;
+		System.out.println(a);
 		
-		//b = !a;
-		
-     	//-a;
 	}
 }

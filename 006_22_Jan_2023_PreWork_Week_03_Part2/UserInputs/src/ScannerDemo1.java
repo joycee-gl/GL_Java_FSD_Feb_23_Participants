@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//import java.lang.System;
-
 public class ScannerDemo1 {
 
 	public static void main(String[] args) {
@@ -14,5 +12,10 @@ public class ScannerDemo1 {
 		String text = scanner.nextLine();
 		
 		System.out.println("You have entered->" + text);
+		
+		System.out.println("Enter a number:");
+		int value = scanner.nextInt();
+		
+		System.out.println("You have entered number as : " +value);
 	}
 }
