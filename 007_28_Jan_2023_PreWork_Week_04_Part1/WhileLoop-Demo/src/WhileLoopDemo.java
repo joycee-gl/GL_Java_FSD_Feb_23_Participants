@@ -11,5 +11,6 @@ public class WhileLoopDemo {
 			
 			counter = counter + 1;
 		}
+				
 	}
 }
