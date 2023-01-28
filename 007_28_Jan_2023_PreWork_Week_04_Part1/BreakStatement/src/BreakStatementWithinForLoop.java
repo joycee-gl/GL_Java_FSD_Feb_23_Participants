@@ -6,7 +6,6 @@ public class BreakStatementWithinForLoop {
 		
 		for (int counter = 1; counter <=10; counter ++) {
 			
-			
 			if (counter == 7) {
 				System.out.println("Break out from for-loop");
 				break;
